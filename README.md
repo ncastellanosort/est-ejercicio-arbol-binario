@@ -1,6 +1,5 @@
 # Implementación de un Binary Tree en Java
-## Implemente un programa en el lenguaje de programación Java que permita en un árbol
-binario:
+## Implemente un programa en el lenguaje de programación Java que permita en un Binary Tree:
 * Crear un Nodo.
 * Crear un árbol binario.
 * Insertar datos en el árbol (Los datos pueden ser Números o Letras) Dar la opción al
